@@ -1,0 +1,10 @@
+[2025-06-26 18:00:25] INFO: Server running at http://localhost:5000
+[2025-06-26 18:00:25] INFO: MongoDB connected
+[2025-06-26 18:02:23] INFO: Short URL created: http://localhost:5000/arulg
+[2025-06-26 18:02:26] WARN: Shortcode already exists: arulg
+[2025-06-26 18:06:48] INFO: Short URL created: http://localhost:5000/arulg1
+[2025-06-26 18:07:08] INFO: Redirecting to: https://arul.codes
+[2025-06-26 18:08:18] INFO: Short URL created: http://localhost:5000/arulg2005
+[2025-06-26 18:08:34] INFO: Redirecting to: https://arul.codes
+[2025-06-26 18:08:48] WARN: Shortcode already exists: arulg2005
+[2025-06-26 18:09:18] INFO: Short URL created: http://localhost:5000/arulg200
